@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+env/
+venv/
+
+# Files
+*.log
+.DS_Store
+
+# Git
+.git/
